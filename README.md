@@ -68,6 +68,9 @@ The complete Arduino source code is available here:
 
 ![KiwisIoT Dashboard Output](KIWISIOT%20OUTPUT.jpeg)
 
+## Platform
+*IoT platform:*[KiwisIoT](https://kiwisiot.in)
+
 ## 🚀 Applications
 
 - Smart home temperature monitoring
