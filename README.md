@@ -60,13 +60,13 @@ The complete Arduino source code is available here:
 
 [ESP8266_DHT11_Temperature_Alert.ino](ESP8266_DHT11_Temperature_Alert.ino)
 
-## 📸 Project Output
+## 🔌 Circuit Connections
 
-![Temperature Alert System Output](TEMPERATURE%20ALERT%20OUTPUT.jpeg)
+![Temperature Alert Circuit Connection](Temperature%20alert%20circuit%20connection.jpeg)
 
-## ☁️ KiwisIoT Output
+## ☁️ KiwisIoT Dashboard Output
 
-![KiwisIoT Dashboard Output](KIWISIOT%20OUTPUT.jpeg)
+![Temperature Alert Dashboard](Temperature%20Alert%20Dashbpard.jpeg)
 
 ## Platform
 *IoT platform:*[KiwisIoT](https://kiwisiot.in)
